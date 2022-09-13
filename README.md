@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio website built using simple HTML and CSS
+A portfolio website built using simple HTML and CSS.
 A simple portfolio website built using 
   -HTML
   -CSS
@@ -7,7 +7,7 @@ A simple portfolio website built using
  
  A hands-on, easy to use website that can be modified according to the user convenience.
  
- There are three files in the code website
+ There are three files in the code website:
  -Index HTML file.
  -About HTML file.
  -Styling CSS file.
