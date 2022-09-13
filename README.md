@@ -19,5 +19,5 @@ A simple portfolio website built using
  -Run the HTML files on the terminal on a default browser (Google Chrome is preferred).
  -Voila, your portfolio website is ready to launch.
   
-  P.S - Make the changes according to your profile by changing the HTML <p> tag in the text editor.
+  P.S - Make the changes according to your profile by changing the HTML paragraph tag in the text editor.
  
